@@ -1,1 +1,1 @@
-sample-text-h1-vijay_kumar 
+perl -pi -e 'chomp if eof' 
